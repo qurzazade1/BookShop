@@ -1,4 +1,4 @@
-# OnlineBookStore
+# BookShop
 A Spring boot application 
 
 What does the technology stack look like ?
